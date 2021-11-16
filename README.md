@@ -5,7 +5,7 @@ Midterm project for CS 634-Data mining
 
 Handled by Professor Yasser Abduallah
 
-**Topic: Implementation of Apriori algorithm from scratch in python. **
+**Topic: Implementation of Apriori algorithm from scratch in python.**
 
 
 **File description:**
