@@ -1,0 +1,21 @@
+Transaction ID,1,2,3,4,5
+Trans1,chocolate almonds,Peanut Butter,Roasted seaweed,coffee,
+Trans2,chocolate almonds,Peanut Butter,Roasted seaweed,,
+Trans3,chocolate almonds,Peanut Butter,Roasted seaweed,coffee,Rotisserie Chicken
+Trans4,coffee,Rotisserie Chicken,Vanilla Extract,,
+Trans5,coffee,Vanilla Extract,cake,,
+Trans6,chocolate almonds,coffee,Rotisserie Chicken,,
+Trans7,chocolate almonds,Rotisserie Chicken,Vanilla Extract,,
+Trans8,Peanut Butter,Roasted seaweed,coffee,,
+Trans9,Roasted seaweed,coffee,Rotisserie Chicken,Vanilla Extract,
+Trans10,Vanilla Extract,cake,Basil Pesto,,
+Trans11,chocolate almonds,Peanut Butter,Roasted seaweed,coffee,
+Trans12,chocolate almonds,Peanut Butter,Roasted seaweed,vodka,
+Trans13,chocolate almonds,Peanut Butter,Roasted seaweed,cake,vodka
+Trans14,Roasted seaweed,coffee,Rotisserie Chicken,,
+Trans15,Roasted seaweed,coffee,,,
+Trans16,chocolate almonds,Peanut Butter,Roasted seaweed,coffee,
+Trans17,chocolate almonds,Peanut Butter,Roasted seaweed,coffee,
+Trans18,Rotisserie Chicken,Vanilla Extract,cake,,
+Trans19,coffee,Rotisserie Chicken,,,
+Trans20,chocolate almonds,Peanut Butter,Roasted seaweed,,

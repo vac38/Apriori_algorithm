@@ -1,0 +1,21 @@
+Transaction ID,1,2,3,4,5,6,7,8,9,10
+Trans1,Running Shoe,Socks,Sweatshirts,Modern Pants,,,,,,
+Trans2,Running Shoe,Socks,Sweatshirts,,,,,,,
+Trans3,Running Shoe,Socks,Sweatshirts,Modern Pants,,,,,,
+Trans4,Running Shoe,Sweatshirts,Modern Pants,,,,,,,
+Trans5,Running Shoe,Socks,Sweatshirts,Modern Pants,Soccer Shoe,,,,,
+Trans6,Running Shoe,Socks,Sweatshirts,,,,,,,
+Trans7,Running Shoe,Socks,Sweatshirts,Modern Pants,Tech Pants,Rash Guard,Hoodies,,,
+Trans8,Swimming Shirt,Socks,Sweatshirts,,,,,,,
+Trans9,Swimming Shirt,Rash Guard,Dry Fit V-Nick,Hoodies,Tech Pants,,,,,
+Trans10,Swimming Shirt,Rash Guard,Dry,,,,,,,
+Trans11,Swimming Shirt,Rash Guard,Dry Fit V-Nick,,,,,,,
+Trans12,Running Shoe,Swimming Shirt,Socks,Sweatshirts,Modern Pants,Soccer Shoe,Rash Guard,Hoodies,Tech Pants,Dry Fit V-Nick
+Trans13,Running Shoe,Swimming Shirt,Socks,Sweatshirts,Modern Pants,Soccer Shoe,Rash Guard,Tech Pants,Dry Fit V-Nick,Hoodies
+Trans14,Running Shoe,Swimming Shirt,Rash Guard,Tech Pants,Hoodies,Dry Fit V-Nick,,,,
+Trans15,Running Shoe,Swimming Shirt,Socks,Sweatshirts,Modern Pants,Dry Fit V-Nick,Rash Guard,Tech Pants,,
+Trans16,Swimming Shirt,Soccer Shoe,Hoodies,Dry Fit V-Nick,Tech Pants,Rash Guard,,,,
+Trans17,Running Shoe,Socks,,,,,,,,
+Trans18,Socks,Sweatshirts,Modern Pants,Soccer Shoe,Hoodies,Rash Guard,Tech Pants,Dry Fit V-Nick,,
+Trans19,Running Shoe,Swimming Shirt,Rash Guard,,,,,,,
+Trans20,Running Shoe,Swimming Shirt,Socks,Sweatshirts,Modern Pants,Soccer Shoe,Hoodies,Tech Pants,Rash Guard,Dry Fit V-Nick

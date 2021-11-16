@@ -1,0 +1,21 @@
+Transaction ID,1,2,3,4,5
+Trans1,A,B,C,,
+Trans2,A,B,C,,
+Trans3,A,B,C,D,
+Trans4,A,B,C,D,E
+Trans5,A,B,D,E,
+Trans6,A,D,E,,
+Trans7,A,E,,,
+Trans8,A,E,,,
+Trans9,A,C,E,,
+Trans10,A,C,E,,
+Trans11,A,C,E,,
+Trans12,A,B,C,D,
+Trans13,A,B,C,D,E
+Trans14,A,B,,,
+Trans15,A,C,D,,
+Trans16,A,B,C,,
+Trans17,A,B,C,E,
+Trans18,A,B,C,D,
+Trans19,A,B,E,,
+Trans20,A,B,E,,
